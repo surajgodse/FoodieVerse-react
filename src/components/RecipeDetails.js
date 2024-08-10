@@ -4,8 +4,8 @@ import axios from 'axios';
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const API_KEY = 'a67ecc892281158e914070577cc39d73';
-const APP_ID = '65ef7904';
+const API_KEY = '****';
+const APP_ID = '****';
 const BASE_URL = 'https://api.edamam.com/search';
 
 function RecipeDetails() {
